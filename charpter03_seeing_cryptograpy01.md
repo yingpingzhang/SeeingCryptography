@@ -37,7 +37,7 @@
 
 有了上面这些基本知识之后，我们来探讨一下一个好的密码系统怎样设计。先从一个典型的密码系统设计开始。
 
-![img](https://staticcdn1-5.umiwi.com/epms_ebook/b6242ee42c2641ec4c4fced64d825489.jpg?x-oss-process=image/resize,w_1920,m_lfit)
+![img](image/b6242ee42c2641ec4c4fced64d825489.jpg)
 
 上面这张密码应用技术框架图，包括密码资源、密码支撑、密码服务、密码应用四个层次，以及提供管理服务的密码管理基础设施。
 
