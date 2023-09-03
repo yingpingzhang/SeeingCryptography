@@ -1,9 +1,5 @@
----
-typora-root-url: image
----
-
 # 看见密码学
-![seeingcryptography](/seeingcryptography.png)
+![](image/seeingcryptography.png)
 
  在我的职业生涯里密码学一直如影随形。自从2005年接触到密码学之后，就与她结下了不解之缘。虽然，中间开了几次小差，搞过ERP（Enterprise Resource Planning，企业资源计划）、物联网、区块链，但这些从业经验不仅没有减弱我对密码学的理解，反而让我在密码应用方面走的更远了。
 
