@@ -70,5 +70,5 @@
 
 ------
 
-[上一章节](charpter01_unlocking_cryptography02.md) [下一章节](charpter01_unlocking_cryptography04.md)   
+[上一章节](charpter01_unlocking_cryptography02.md) [下一章节](charpter02_understanding_cryptography00.md)   
 
