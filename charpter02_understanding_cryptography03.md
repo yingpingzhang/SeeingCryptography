@@ -62,3 +62,8 @@
 
 到此我们先离开故事，回到历史。1976年在《密码术的新方向》中，迪菲和黑尔曼提出了一种可以利用密码术产生手写签名的电子等效物的方法。这篇文章的影响无论给予多高评价都不为过。迪菲-黑尔曼-墨克钥匙交换方案(Diffie-Hellman-Merkle key exchange scheme)让双方可以透过公开的讨论，建立秘密通讯。它是科学史上最反直觉的发现，它迫使所有密码组织重写加密规则。
 
+
+
+------
+
+[上一章节](charpter02_understanding_cryptography02.md) [下一章节](charpter02_understanding_cryptography04.md)   
